@@ -6,6 +6,7 @@ description: 競走馬の牧場の運営を通じて、馬を飼育、調教、�
 
 ![](https://2096252471-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNjaJhf8Ri5iCbPmtivXB%2Fuploads%2FVJEKBcd7Qn5TYHTXp646%2FHorse%20Story3.png?alt=media\&token=c0350650-1646-4aa6-b7c3-3e4514cf81ce)
 
+ヴァーチャル競走馬を育成、調教、飼育するスキルを試しませんか？スキル次第であなたの馬を最高の競走馬に変身させることができるかもしれません。ブリーダーとしての目利きで理想の交配相手を見つけることができるか？競走馬
 Do you have the skills to raise, train and care for the well-being of your own virtual horse? Can you use these skills to transform your equine into the very best racehorse it can be? Do you have the keen eye of a breeder to select the ideal partner for your horse? Could you develop the expertise to effectively manage a racehorse ranch with any offspring from this breeding? Or do you have the finances to invest and are willing to hire others? If you can answer yes to some of these questions, then the **Speed Star simulation game** within the **Starverse** universe is for you!!
 
 
