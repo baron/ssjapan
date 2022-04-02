@@ -18,3 +18,11 @@
 ## Group 1
 
 * [test again](group-1/page-1.md)
+
+## Group 2
+
+* [Page 1](group-2/page-1.md)
+
+## change group
+
+* [Page 2](change-group/page-2.md)
