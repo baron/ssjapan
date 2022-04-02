@@ -1,0 +1,3 @@
+# SPEED Distribution
+
+A term that you will see being used frequently in the game is ‘popularity’. This term within the game is similar to the business term ‘goodwill’. A system has been developed that acts as a passive multiplier regarding token gains. Goodwill is primarily obtained from facilities (NFTs) being staked on the ranch, but other activities contribute to it. Think of ‘popularity’ not just in terms of whether people visit your farm because you are successful with racing, but also as a statistic that can be increased, similar to a level of experience, and one that has a proportional relationship to your passive token gains. In effect, ranch business/goodwill x ranch popularity = more passive income.
