@@ -6,17 +6,13 @@ Liquidity is created by matching assets within the system. This mechanism helps 
 
 JOC Tokens will gradually be released into the liquidity pool from the respective prize multiplier (e.g., 5x, 10x, etc.).
 
-| LPs       | Multiplier |
-| JOC-STAR  | 10x        |
-| JOC-SPEED | 5x         |
-| JOC-ONE   | 1x         |
-| JOC-ETH   | 1x         |
-| JOC-BTC   | 1x         |
-| JOC-USDT  | 1x         |
-| JOC-USDC  | 1x         |
-| JOC-BUSD  | 1x         |
-| JOC-UST   | 1x         |
-| JOC-DAI   | 1x         |
+| LPs | Multiplier |
+| --- | ---------- |
+|     |            |
+|     |            |
+|     |            |
+
+\| LPs | Multiplier | | JOC-STAR | 10x | | JOC-SPEED | 5x | | JOC-ONE | 1x | | JOC-ETH | 1x | | JOC-BTC | 1x | | JOC-USDT | 1x | | JOC-USDC | 1x | | JOC-BUSD | 1x | | JOC-UST | 1x | | JOC-DAI | 1x |
 
 ### &#x20;<a href="#usdjoc-lps-emission-rate" id="usdjoc-lps-emission-rate"></a>
 
